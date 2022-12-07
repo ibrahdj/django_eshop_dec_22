@@ -87,6 +87,7 @@ DATABASES = {
         'PASSWORD': 'ibdjilla',
         'HOST': 'localhost',
         'PORT': '3306',
+        
 	}
 }
 
