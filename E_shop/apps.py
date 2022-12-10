@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class HomeConfig(AppConfig):
+class EShopConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'home'
+    name = 'E_shop'
